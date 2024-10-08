@@ -1,0 +1,16 @@
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\bin\Debug\net8.0-windows\breakout.exe
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\bin\Debug\net8.0-windows\breakout.deps.json
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\bin\Debug\net8.0-windows\breakout.runtimeconfig.json
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\bin\Debug\net8.0-windows\breakout.dll
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\bin\Debug\net8.0-windows\breakout.pdb
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.csproj.GenerateResource.cache
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.GeneratedMSBuildEditorConfig.editorconfig
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.AssemblyInfoInputs.cache
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.AssemblyInfo.cs
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.csproj.CoreCompileInputs.cache
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.dll
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\refint\breakout.dll
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.pdb
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.genruntimeconfig.cache
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\ref\breakout.dll
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.Deszka.resources
