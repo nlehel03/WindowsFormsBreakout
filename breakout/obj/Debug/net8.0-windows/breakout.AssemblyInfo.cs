@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("breakout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e2b0c3cdc5c754c0aec1d3dbfd287755eff05c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("breakout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("breakout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

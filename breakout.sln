@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "breakout", "breakout\breakout.csproj", "{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "breakout", "breakout\breakout.csproj", "{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{8FFFD04B-4078-4758-8BFB-84A9781E086E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFFD04B-4078-4758-8BFB-84A9781E086E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFFD04B-4078-4758-8BFB-84A9781E086E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFFD04B-4078-4758-8BFB-84A9781E086E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFFD04B-4078-4758-8BFB-84A9781E086E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

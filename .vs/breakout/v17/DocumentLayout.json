@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8FFFD04B-4078-4758-8BFB-84A9781E086E}|TestProject1\\TestProject1.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFFD04B-4078-4758-8BFB-84A9781E086E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\tegla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\tegla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\labda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\labda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\fajlkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\fajlkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\deszka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\deszka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\breakout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\breakout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\labda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\labda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\ranglista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\ranglista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\jatek.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\jatek.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\ranglista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\ranglista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\gameover.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\gameover.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|d:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9867F782-B8E0-4F7A-AA51-F3FA510D83BA}|breakout\\breakout.csproj|solutionrelative:breakout\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,32 +78,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "breakout\\Form1.Designer.cs",
-              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Form1.Designer.cs",
-              "RelativeToolTip": "breakout\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Program.cs",
+              "RelativeDocumentMoniker": "breakout\\Program.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Program.cs",
+              "RelativeToolTip": "breakout\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T22:32:51.709Z",
+              "WhenOpened": "2024-10-19T22:57:06.687Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Menu.cs",
+              "RelativeDocumentMoniker": "breakout\\Menu.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Menu.cs",
+              "RelativeToolTip": "breakout\\Menu.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:18:17.856Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Menu.cs",
+              "RelativeDocumentMoniker": "breakout\\Menu.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Menu.cs [Design]",
+              "RelativeToolTip": "breakout\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:03:02.529Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\GameModel.cs",
+              "RelativeDocumentMoniker": "breakout\\GameModel.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\GameModel.cs",
+              "RelativeToolTip": "breakout\\GameModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:54:20.798Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jatek.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Jatek.cs",
+              "RelativeDocumentMoniker": "breakout\\Jatek.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Jatek.cs",
+              "RelativeToolTip": "breakout\\Jatek.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:20:11.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Jatek.cs [Design]",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Jatek.cs",
+              "RelativeDocumentMoniker": "breakout\\Jatek.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Jatek.cs [Design]",
+              "RelativeToolTip": "breakout\\Jatek.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:17:33.439Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fajlkezeles.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Fajlkezeles.cs",
+              "RelativeDocumentMoniker": "breakout\\Fajlkezeles.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Fajlkezeles.cs",
+              "RelativeToolTip": "breakout\\Fajlkezeles.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAA0wJ4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:13:02.536Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "breakout.csproj",
-              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\breakout.csproj",
-              "RelativeDocumentMoniker": "breakout\\breakout.csproj",
-              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\breakout.csproj",
-              "RelativeToolTip": "breakout\\breakout.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-02T22:32:37.852Z"
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\GameOver.cs",
+              "RelativeDocumentMoniker": "breakout\\GameOver.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\GameOver.cs",
+              "RelativeToolTip": "breakout\\GameOver.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:39:17.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameOver.cs [Design]",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\GameOver.cs",
+              "RelativeDocumentMoniker": "breakout\\GameOver.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\GameOver.cs [Design]",
+              "RelativeToolTip": "breakout\\GameOver.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:01:20.476Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ranglista.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Ranglista.cs",
+              "RelativeDocumentMoniker": "breakout\\Ranglista.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Ranglista.cs",
+              "RelativeToolTip": "breakout\\Ranglista.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:54:29.862Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ranglista.cs [Design]",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Ranglista.cs",
+              "RelativeDocumentMoniker": "breakout\\Ranglista.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Ranglista.cs [Design]",
+              "RelativeToolTip": "breakout\\Ranglista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:35:45.335Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deszka.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Deszka.cs",
+              "RelativeDocumentMoniker": "breakout\\Deszka.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Deszka.cs",
+              "RelativeToolTip": "breakout\\Deszka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:57:47.406Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -73,58 +244,59 @@
               "RelativeDocumentMoniker": "breakout\\Labda.cs",
               "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Labda.cs",
               "RelativeToolTip": "breakout\\Labda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:58:21.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Deszka.cs",
-              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Deszka.cs",
-              "RelativeDocumentMoniker": "breakout\\Deszka.cs",
-              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Deszka.cs",
-              "RelativeToolTip": "breakout\\Deszka.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:57:47.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tegla.cs",
-              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Tegla.cs",
-              "RelativeDocumentMoniker": "breakout\\Tegla.cs",
-              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Tegla.cs",
-              "RelativeToolTip": "breakout\\Tegla.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T19:07:51.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Form1.cs",
-              "RelativeDocumentMoniker": "breakout\\Form1.cs",
-              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Form1.cs",
-              "RelativeToolTip": "breakout\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:20:11.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T18:58:21.563Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Form1.cs",
-              "RelativeDocumentMoniker": "breakout\\Form1.cs",
-              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Form1.cs [Design]",
-              "RelativeToolTip": "breakout\\Form1.cs [Design]",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:17:33.439Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-24T01:31:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "breakout\\Menu.Designer.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Menu.Designer.cs",
+              "RelativeToolTip": "breakout\\Menu.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:44:26.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jatek.Designer.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Jatek.Designer.cs",
+              "RelativeDocumentMoniker": "breakout\\Jatek.Designer.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\Jatek.Designer.cs",
+              "RelativeToolTip": "breakout\\Jatek.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:32:51.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "gameOver.Designer.cs",
+              "DocumentMoniker": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\gameOver.Designer.cs",
+              "RelativeDocumentMoniker": "breakout\\gameOver.Designer.cs",
+              "ToolTip": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\gameOver.Designer.cs",
+              "RelativeToolTip": "breakout\\gameOver.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:25:52.584Z"
             }
           ]
         }

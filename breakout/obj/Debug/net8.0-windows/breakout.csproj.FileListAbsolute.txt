@@ -13,4 +13,9 @@ D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8
 D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.pdb
 D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.genruntimeconfig.cache
 D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\ref\breakout.dll
-D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.Deszka.resources
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.sourcelink.json
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.gameOver.resources
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.Jatek.resources
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.Menu.resources
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.Properties.Resources.resources
+D:\lehel\programozas\c#-egyetem\esemenyvezerelt\breakout\breakout\obj\Debug\net8.0-windows\breakout.Ranglista.resources

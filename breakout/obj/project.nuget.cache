@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Qd3f8mqUF7w=",
+  "dgSpecHash": "ZmnpwMAEYjw=",
   "success": true,
   "projectFilePath": "D:\\lehel\\programozas\\c#-egyetem\\esemenyvezerelt\\breakout\\breakout\\breakout.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nlehe\\.nuget\\packages\\elte.fi.saruleset\\3.1.0\\elte.fi.saruleset.3.1.0.nupkg.sha512",
+    "C:\\Users\\nlehe\\.nuget\\packages\\microsoft.codeanalysis.bannedapianalyzers\\3.3.4\\microsoft.codeanalysis.bannedapianalyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\nlehe\\.nuget\\packages\\roslynator.analyzers\\4.5.0\\roslynator.analyzers.4.5.0.nupkg.sha512",
+    "C:\\Users\\nlehe\\.nuget\\packages\\sonaranalyzer.csharp\\9.12.0.78982\\sonaranalyzer.csharp.9.12.0.78982.nupkg.sha512"
+  ],
   "logs": []
 }
